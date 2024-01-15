@@ -15,5 +15,4 @@ ci:
   autoupdate_branch: 'main'
   autoupdate_commit_msg: 'chore(pre-commit.ci): pre-commit autoupdate'
   autoupdate_schedule: weekly
-  skip: [golangci-lint-full]
   submodules: false
